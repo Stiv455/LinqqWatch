@@ -14,7 +14,7 @@
 <img src="https://raw.githubusercontent.com/Stiv455/LinqqWatch/refs/heads/main/Linqq%20Screens/3.png" width="250" />
 <img src="https://raw.githubusercontent.com/Stiv455/LinqqWatch/refs/heads/main/Linqq%20Screens/4.png" width="250" />
 </div>
-## Download
+# Linqq (Telegram app for Watch)
 
 Download: [Linqq TG Watch](https://github.com/Stiv455/LinqqWatch/releases)  
 ADB Shell:
