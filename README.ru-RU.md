@@ -50,8 +50,8 @@ adb install Linqq-universal.apk
 
 ## Community
 
-We recommend using [issue](https://github.com/Stiv455/LinqqWatch/issues) to provide the most direct
-and effective feedback. Of course, the following options for feedback are also available:
+Мы рекомендуем использовать [issue](https://github.com/Stiv455/LinqqWatch/issues), чтобы обеспечить наиболее прямую
+и эффективную обратную связь. Конечно, также доступны следующие варианты обратной связи:
 
 - [Telegram](https://t.me/LinqqWatch)
 
