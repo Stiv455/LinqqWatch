@@ -31,12 +31,13 @@ adb install Linqq-universal.apk
 - Authorization by QR code 
 - Two-factor authentication support
 - View chats, message
-- Supported message formats: Photos, Videos, Voice messages
+- Supported message formats: Photos, Videos, Voice messages, Stickers
 - Smooth message updates  
 - Ability to send messages    
 - Ability to send voice messages
 - Support for notifications in the background (no interactions)
-The chat archive is in development..
+- Switch between the main chat and the archive chat
+
 To work correctly in the background, disable the pause of the process in the background
 
 ## Minimum and recommended requirements
@@ -53,4 +54,4 @@ To work correctly in the background, disable the pause of the process in the bac
 We recommend using [issue](https://github.com/Stiv455/LinqqWatch/issues) to provide the most direct
 and effective feedback. Of course, the following options for feedback are also available:
 
-- [Telegram](https://t.me/LinqqWatch)
+- [Telegram Chat](https://t.me/LinqqWatchChat)
