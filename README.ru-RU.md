@@ -55,4 +55,4 @@ adb install Linqq-universal.apk
 и эффективную обратную связь. Конечно, также доступны следующие варианты обратной связи:
 
 - [Telegram Чат](https://t.me/LinqqWatchChat)
-
+- [Связь со мной](https://t.me/chikda2103)
