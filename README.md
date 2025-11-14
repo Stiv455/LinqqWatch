@@ -55,3 +55,4 @@ We recommend using [issue](https://github.com/Stiv455/LinqqWatch/issues) to prov
 and effective feedback. Of course, the following options for feedback are also available:
 
 - [Telegram Chat](https://t.me/LinqqWatchChat)
+- [My Telegram](https://t.me/chikda2103)
